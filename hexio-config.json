@@ -1,0 +1,6 @@
+{
+    "matchDurationSeconds": 180,
+    "timeToRespawnSeconds": 3,
+    "playerSpeed": 10.0,
+    "mapSizeMultiplier": 30.0
+}
